@@ -1,7 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
 { name: 'Messaging19167527', human_name: 'Messaging 19', access_route: 'Messaging19167527', icon: 'comments'},
-{ name: 'NotificationList20167526', human_name: 'Notification List 20', access_route: 'NotificationList20167526'},
 { name: 'Settings21167525', human_name: 'Settings 21', access_route: 'Settings21167525'},
 { name: 'CalendarView22167524', human_name: 'Calendar View 22', access_route: 'CalendarView22167524', icon: 'calendar'},
 { name: 'Camera23167523', human_name: 'Camera 23', access_route: 'Camera23167523', icon: 'camera'},
